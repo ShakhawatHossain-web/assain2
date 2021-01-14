@@ -1,0 +1,13 @@
+.text-b{
+    color: rgb(233, 173, 10);
+    font-weight: bold;
+    font-size:50px;
+}
+.text-n{
+    font-weight: bold;
+    font-size:50px;
+}
+
+.top-p{
+    padding-top: 150px;
+}
